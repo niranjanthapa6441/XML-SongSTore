@@ -1,0 +1,163 @@
+Store{
+    background-color: #fff;
+}
+storesInformation{
+    margin-top: 10px;
+    background-color:rgb(10, 10, 10);
+    width: 100%;
+    height:70vh;
+    display: block;
+}
+logo[logoId="1"]{
+    display: block;
+    background-repeat: no-repeat;
+    background: url(images/logo.png);
+    background-size: 100% 100%;
+    height: 50%;
+    width: 40%;
+    margin-left: 430px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+storeName{
+    display: block;
+    font-size: 65px;
+    font-weight: bold;
+    color: rgb(145, 144, 144);
+    font-family: 'Brush Script MT', cursive;
+    margin-left: 440px;
+    margin-bottom: 40px;
+}
+songs{
+        display: flex;
+        justify-content:center;
+        flex-wrap: wrap;
+}
+phoneNumber{
+    color: rgb(145, 144, 144);
+    font-size: 20px;
+    margin-left: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+address{
+    font-size: 20px;
+    color: rgb(145, 144, 144);
+    font-family: 'Courier New', Courier, monospace;
+}
+website{
+    font-size: 20px;
+    color: rgb(145, 144, 144);
+    font-family: 'Courier New', Courier, monospace;
+}
+song{
+    display: block;
+    border: solid 1px rgb(97, 95, 95); 
+    background: rgba(189, 187, 187, 0.8);
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    width: 45%;
+    height:380px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+    overflow: hidden;
+    opacity: 1;
+    transition: 0.5s ease;
+    z-index: 5;
+    cursor: pointer;
+    text-align: center;
+   }
+   song:hover{
+    border: solid 1px rgb(34, 32, 32);
+    background: rgba(110, 110, 110, 0.8);
+    transform: scale(1.02,1.02);
+    backdrop-filter: blur(20px);
+}
+title{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+genre,singers,musicDirectors,writers,album,producers,length,band,recorded,released,productionHouse{ 
+    display: list-item;
+    list-style: none;
+    color: #000;
+    margin-bottom: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    transform: translateY(5px);
+   }
+image[imgid="1"]{
+    background-image: url(images/eminem.png);
+}
+image[imgid="2"]{
+    background-image: url(images/beatles.jpg);
+}
+image[imgid="3"]{
+    background-image: url(images/bruno.jpg);
+}
+image[imgid="4"]{
+    background-image: url(images/justthe.jpg);
+}
+image[imgid="5"]{
+    background-image: url(images/country.jpg);
+}
+image[imgid="6"]{
+    background-image: url(images/nights.jpg);
+}
+image[imgid="7"]{
+    background-image: url(images/seven.png);
+}
+image[imgid="8"]{
+    background-image: url(images/para.png);
+}
+image[imgid="9"]{
+    background-image: url(images/incase.jpg);
+}
+image[imgid="10"]{
+    background-image: url(images/faded.png);
+}
+image[imgid="11"]{
+    background-image: url(images/godscount.jpg);
+}
+image[imgid="12"]{
+    background-image: url(images/bonjov.jpg);
+}
+image[imgid="13"]{
+    background-image: url(images/sweet.jpg);
+}
+image[imgid="14"]{
+    background-image: url(images/WhenItRainsItPours.jpg);
+}
+image[imgid="15"]{
+    background-image: url(images/cant.jpg);
+}
+image[imgid="16"]{
+    background-image: url(images/godzilla.jpg);
+}
+
+image[imgid="1"],
+image[imgid="2"],
+image[imgid="3"],
+image[imgid="4"],
+image[imgid="5"],
+image[imgid="6"],
+image[imgid="7"],
+image[imgid="8"],
+image[imgid="9"],
+image[imgid="10"],
+image[imgid="11"],
+image[imgid="12"],
+image[imgid="13"],
+image[imgid="14"],
+image[imgid="15"],
+image[imgid="16"]{
+    display: block;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float:left;
+    height: 100%;
+    width: 50%;
+    margin-left: 0px;
+}

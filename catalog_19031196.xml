@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="final.css" type="text/css"?>
+<!DOCTYPE Store SYSTEM "catalog_19031196.dtd">
+<Store>
+    <storesInformation>
+        <logo logoId="1"></logo>
+        <storeName>Nepal Music Academy</storeName>
+        <phoneNumber>
+            <tag>| Phone No:</tag>
+            <countryCode>+977</countryCode> 
+            <number>9810314782</number>
+        </phoneNumber>
+        <address> | Address: JP Marga,Thamel,Kathmandu,Nepal</address>
+        <website>| Website: nepalmusicacademy.com.np |</website>
+    </storesInformation>
+    <songs>
+        <song songID="1">
+            <image imgid="1"></image>
+            <title>Rap God</title>
+                <genre genreID="HipHop">
+                    <tag>Genre:</tag>
+                    <genrename>HipHop</genrename>
+                </genre>
+                <album albumID="sad">Album: The Marshall Mathers LP 2</album>
+                <singers>
+                    <sangBy singerID="1">Artist: Eminem</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By: AfterMath</directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer: DVLP</producedBy>
+                    <producedBy producerID="2">Filthy(co)</producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By: Eminem</writtenBy>
+                    <writtenBy writerID="2">Sick Rick</writtenBy>
+                </writers>
+                <length>length: 6:04</length>
+                <recorded>Recorded: 2012</recorded>
+                <released>Released: 2013</released>
+        </song>
+        <song songID="2">
+            <image imgid="2"></image>
+            <title>Here Comes the Sun</title>
+                <genre genreID="Rock">
+                    <tag>Genre:</tag>
+                    <genrename>Rock</genrename>
+                </genre>
+                <album albumID="sa">Album: Abbey Road </album>
+                <band>Band:The Beatles</band>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By:Eric Clapton </directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer:George Martin </producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By: George Harrisson</writtenBy>
+                </writers>
+                <productionHouse>Production House: Apple</productionHouse>
+                <length>length: 3:06</length>
+                <recorded>Recorded: 7th july-19th August 1969</recorded>
+                <released>Released: 26 September 1969</released>
+
+        </song>
+        <song songID="15">
+            <image imgid="15"></image>
+            <title>Can't Stop the Feeling</title>
+                <genre genreID="HipHop">
+                    <tag>Genre:</tag>
+                    <genrename>HipHop</genrename>
+                </genre>
+                <album albumID="B15">Album: Trolls: Original Motion Picture Soundtrack</album>
+                <singers>
+                    <sangBy singerID="1">Artist: Justin Timberlake</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By: Mark Romanek</directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer:Max Martin,
+                </producedBy>
+                    <producedBy producerID="2">Justin Timberlake</producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By:Johan Schuster,</writtenBy>
+                    <writtenBy writerID="2">Max Martin</writtenBy>
+                    <writtenBy writerID="3">Justin Timberlake</writtenBy>
+                </writers>
+                <productionHouse>Production House: RCA</productionHouse>
+                <length>length: 3:52</length>
+                <recorded>Recorded: 2016</recorded>
+                <released>Released: 6 May,2016</released>
+        </song>
+        <song songID="16">
+            <image imgid="16"></image>
+            <title>Godzilla</title>
+                <genre genreID="HipHop">
+                    <tag>Genre:</tag>
+                    <genrename>HipHop</genrename>
+                </genre>
+                <album albumID="B13">Album: Music To Be Murdered By</album>
+                <singers>
+                    <sangBy singerID="1">Artist: Eminem</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By: Cole Bennett</directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer: Eminem,
+                </producedBy>
+                    <producedBy producerID="2">D.A. Doman</producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By:Marshall Mathers,</writtenBy>
+                    <writtenBy writerID="2">Jarad Higgins,</writtenBy>
+                    <writtenBy writerID="3"> David Doman</writtenBy>
+                </writers>
+                <productionHouse>Production House: Aftermath</productionHouse>
+                <length>length: 3:30</length>
+                <recorded>Recorded: 2019</recorded>
+                <released>Released: 28 January,2020</released>
+        </song>
+        <song songID="3">
+            <image imgid="3"></image>
+            <title>24k Magic</title>
+                <genre genreID="HipHop">
+                    <tag>Genre:</tag>
+                    <genrename>HipHop</genrename>
+                </genre>
+                <album albumID="asd">Album: 24k magic</album>
+                <singers>
+                    <sangBy singerID="1">Artist: Bruno Mars</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By: Roger Trautman</directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">
+                        <![CDATA[ Producer: Shampoo Press & Curl,]]>
+                    </producedBy>
+                    <producedBy producerID="2">The Stereotypes</producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By: Bruno Mars,</writtenBy>
+                    <writtenBy writerID="2">Phillip lawrence,</writtenBy>
+                    <writtenBy writerID="3">Christopher Brody Brown</writtenBy>
+                </writers>
+                <productionHouse>Production House: Atlantic</productionHouse>
+                <length>length: 3:06</length>
+                <recorded>Recorded: 2015-2016</recorded>
+                <released>Released: 7 October 2016</released>
+        </song>
+        <song songID="4">
+            <image imgid="4"></image>
+            <title>Just The Way You Are</title>
+                <genre genreID="HipHop">
+                    <tag>Genre:</tag>
+                    <genrename>HipHop</genrename>
+                </genre>
+                <album albumID="B2">
+                    <![CDATA[Album:Doo-Wops & Hooligans ]]>
+                </album>
+                <singers>
+                    <sangBy singerID="1">Artist: Bruno Mars</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By:  Stephen Marcussen</directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer:The Smeezingtons,
+                    </producedBy>
+                    <producedBy producerID="2">Needlz</producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By: Bruno Mars,</writtenBy>
+                    <writtenBy writerID="2">Khari Cain,</writtenBy>
+                    <writtenBy writerID="3">Khalll Walton</writtenBy>
+                </writers>
+                <productionHouse>Production House: ELektra, Atlantic</productionHouse>
+                <length>length: 03:41 </length>
+                <recorded>Recorded: 2010</recorded>
+                <released>Released:	July 20, 2010 </released>
+        </song>
+        <song songID="5">
+            <image imgid="5"></image>
+            <title>Take Me Home</title>
+                <genre genreID="Country">
+                    <tag>Genre:</tag>
+                    <genrename>Country</genrename>
+                </genre>
+                <album albumID="B3">
+                    Album:
+                    <![CDATA[Poems, Prayers & Promise]]>
+                </album>
+                <singers>
+                    <sangBy singerID="1">Artist: John Denver</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By:Jay Rockefeller </directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer: Milton OKun,
+                    </producedBy>
+                    <producedBy producerID="2">Susan Ruskin</producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By:Bill Danoff,</writtenBy>
+                    <writtenBy writerID="2">Taffy Nivert,</writtenBy>
+                    <writtenBy writerID="3">John Denver</writtenBy>
+                </writers>
+                <productionHouse>Production House: RCA</productionHouse>
+                <length>length: 3:17</length>
+                <recorded>Recorded: January 1971 </recorded>
+                <released>Released: April 12, 1971</released>
+        </song>
+        <song songID="6">
+            <image imgid="6"></image>
+            <title>The Nights</title>
+                <genre genreID="Dubstep">
+                    <tag>Genre:</tag>
+                    <genrename>Dubstep</genrename>
+                </genre>
+                <album albumID="B4">Album:The Days / Nights EP </album>
+                <singers>
+                    <sangBy singerID="1">Artist: Avicii</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By: Rory Kramer </directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer: Arash Pournouri,
+                </producedBy>
+                    <producedBy producerID="2">Avicii</producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By:Tim Bergling</writtenBy>
+                    <writtenBy writerID="2"> Nicholas Furlong</writtenBy>
+                    <writtenBy writerID="3"> John Feldmann</writtenBy>
+                </writers>
+                <productionHouse>Production House: PRMD,Universal</productionHouse>
+                <length>length: 2:56</length>
+                <recorded>Recorded: January 2014</recorded>
+                <released>Released: 1 December 2014</released>
+        </song>
+        <song songID="7">
+            <image imgid="7"></image>
+            <title>7 Years Old</title>
+                <genre genreID="HipHop">
+                    <tag>Genre:</tag>
+                    <genrename>HipHop</genrename>
+                </genre>
+                <album albumID="B5">Album: </album>
+                <singers>
+                    <sangBy singerID="1">Artist: Lukas Graham</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By: René Sascha Johannsen</directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer: Future Animals,
+                </producedBy>
+                    <producedBy producerID="2">Pilto</producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By:Lukas Forchammer</writtenBy>
+                    <writtenBy writerID="2">Stefan Forrest,</writtenBy>
+                    <writtenBy writerID="3">Morten Ristorp</writtenBy>
+                </writers>
+                <productionHouse>Production House: Warner Bros</productionHouse>
+                <length>length: 3:59</length>
+                <recorded>Recorded: 2015</recorded>
+                <released>Released: 18 September 2015</released>
+        </song><song songID="8">
+            <image imgid="8"></image>
+            <title>Paradise</title>
+                <genre genreID="Rock">
+                    <tag>Genre:</tag>
+                    <genrename>Rock</genrename>
+                </genre>
+                <album albumID="B14">Album: Mylo Xyloto</album>
+                <band>Band: ColdPlay</band>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By: Mat Whitecross </directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer:Markus Dravs,
+                </producedBy>
+                    <producedBy producerID="2">Daniel Green,</producedBy>
+                    <producedBy producerID="3">Rik Simpson,</producedBy>
+                    <producedBy producerID="4">Brian Eno</producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By: Guy Berryman,</writtenBy>
+                    <writtenBy writerID="2">Jonny Buckland, </writtenBy>
+                    <writtenBy writerID="3">Brian Eno</writtenBy>
+                </writers>
+                <productionHouse>Production House: </productionHouse>
+                <length>length: 4:39</length>
+                <recorded>Recorded: 2010–11</recorded>
+                <released>Released: 12 September 2011</released>
+        </song>
+        <song songID="9">
+            <image imgid="9"></image>
+            <title>In Case You Didn't know</title>
+                <genre genreID="Country">
+                    <tag>Genre:</tag>
+                    <genrename>Country</genrename>
+                </genre>
+                <album albumID="B6">Album:Brett Young </album>
+                <singers>
+                    <sangBy singerID="1">Brett Young</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By: Jennifer Rothhelim</directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer:Dan hUff
+                    </producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By:Brett Young,</writtenBy>
+                    <writtenBy writerID="2">Trent Tomlinson,</writtenBy>
+                    <writtenBy writerID="3">Tyler Reeve</writtenBy>
+                </writers>
+                <length>length: 3:44 </length>
+                <recorded>Recorded: 2016 </recorded>
+                <released>Released: 9 January,2017 </released>
+        </song>
+        <song songID="10">
+            <image imgid="10"></image>
+            <title>Faded</title>
+                <genre genreID="Dubstep">
+                    <tag>Genre:</tag>
+                    <genrename>Dubstep</genrename>
+                </genre>
+                <album albumID="B7">Album: Different World </album>
+                <singers>
+                    <sangBy singerID="1">Artist: Alan Walker</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By: Rikkard and Tobias Häggbom</directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer: Alan Walker,
+                </producedBy>
+                    <producedBy producerID="2">Mood Melodies</producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By:Alan Walker,</writtenBy>
+                    <writtenBy writerID="2">Ander Fioen,</writtenBy>
+                    <writtenBy writerID="3">Gunner Greeve</writtenBy>
+                </writers>
+                <productionHouse>Production House: Mer Musik</productionHouse>
+                <length>length: 3:22</length>
+                <recorded>Recorded: 2015 </recorded>
+                <released>Released: 4 December,2015</released>
+        </song>
+        <song songID="11">
+            <image imgid="11"></image>
+            <title>God's Country</title>
+                <genre genreID="Country">
+                    <tag>Genre:</tag>
+                    <genrename>Country</genrename>
+                </genre>
+                <album albumID="B8">Album: Fully loaded: God's Country</album>
+                <singers>
+                    <sangBy singerID="1">Artist: Blake Shelton</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By: Sophie Muller </directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer:Scott Hendricks
+                </producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By: Denver Dawson,</writtenBy>
+                    <writtenBy writerID="2">Jordan Schmidt,</writtenBy>
+                    <writtenBy writerID="3">Handy</writtenBy>
+                </writers>
+                <productionHouse>Production House: Warner Bros</productionHouse>
+                <length>length: 3:25</length>
+                <recorded>Recorded: 2018</recorded>
+                <released>Released: 29 March,2019</released>
+        </song>
+        <song songID="12">
+            <image imgid="12"></image>
+            <title> It's My Life</title>
+                <genre genreID="Rock">
+                    <tag>Genre:</tag>
+                    <genrename>Rock</genrename>
+                </genre>
+                <album albumID="B9">Album: Crush</album>
+                <singers>
+                    <sangBy singerID="1">Artist: Jon Bon Jovi</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By: Wayne Isham</directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer: Jon Bon Jovie,
+                </producedBy>
+                <producedBy producerID="2">Luke Ebrin,
+                </producedBy>
+                <producedBy producerID="3">Richie Sambora,
+                </producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By: Jon Bon Jovi,</writtenBy>
+                    <writtenBy writerID="2">Richie Sambora,</writtenBy>
+                    <writtenBy writerID="2">Max Martin</writtenBy>
+                </writers>
+                <productionHouse>Production House: Mercury Island </productionHouse>
+                <length>length: 3:55</length>
+                <recorded>Recorded: 1900</recorded>
+                <released>Released: 23 May, 2000</released>
+        </song>
+        <song songID="13">
+            <image imgid="13"></image>
+            <title>Sweet Sorrow</title>
+                <genre genreID="Jazz">
+                    <tag>Genre:</tag>
+                    <genrename>Jazz</genrename>
+                </genre>
+                <album albumID="B10">Album: MoodSwing</album>
+                <singers>
+                    <sangBy singerID="1">Artist: joshua Reduman</sangBy>
+                </singers>
+                <producers>
+                    <producedBy producerID="1">Producer: Matt Peirsen
+                </producedBy>
+                </producers>
+                <productionHouse>Production House: </productionHouse>
+                <length>length: 6:39</length>
+                <recorded>Recorded: 1994</recorded>
+                <released>Released: 1994</released>
+        </song>
+        <song songID="14">
+            <image imgid="14"></image>
+            <title>When It Rains It Pours</title>
+                <genre genreID="Country">
+                    <tag>Genre:</tag>
+                    <genrename>Country</genrename>
+                </genre>
+                <album albumID="B12">Album: The One's For You</album>
+                <singers>
+                    <sangBy singerID="1">Artist: Luke Combs</sangBy>
+                </singers>
+                <musicDirectors>
+                    <directedBy musicDirectorID="1">Directed By: TA films </directedBy>
+                </musicDirectors>
+                <producers>
+                    <producedBy producerID="1">Producer: Scott Moffat></producedBy>
+                </producers>
+                <writers>
+                    <writtenBy writerID="1">Written By: Luke Combs,</writtenBy>
+                    <writtenBy writerID="2">Ray Fulcher,</writtenBy>
+                    <writtenBy writerID="3">JOrdan Walker</writtenBy>
+                </writers>
+                <productionHouse>Production House: Columbia Nashville </productionHouse>
+                <length>length: 4:02 </length>
+                <recorded>Recorded: December,2016</recorded>
+                <released>Released:  17 jUly,2017</released>
+        </song>
+    </songs>
+</Store>

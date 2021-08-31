@@ -1,0 +1,39 @@
+<!ELEMENT Store (storesInformation?,songs)>
+<!ELEMENT storesInformation (logo,storeName,phoneNumber,address,website)>
+<!ELEMENT logo (#PCDATA)>
+<!ATTLIST logo logoId CDATA #REQUIRED>
+<!ELEMENT storeName (#PCDATA)>
+<!ELEMENT phoneNumber (tag,countryCode,number)>
+<!ELEMENT countryCode (#PCDATA)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT website (#PCDATA)>
+<!ELEMENT songs (song+)>
+<!ELEMENT song (image,title,genre,album,(singers | band),musicDirectors?,producers?,writers?,productionHouse?,length,recorded,released)>
+<!ATTLIST song songID CDATA #REQUIRED>
+<!ELEMENT image (#PCDATA)>
+<!ATTLIST image imgid CDATA #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT genre (tag,genrename)>
+<!ATTLIST genre genreID (Jazz|HipHop|Country|Rock|Dubstep) #REQUIRED>
+<!ELEMENT tag (#PCDATA)>
+<!ELEMENT genrename (#PCDATA)>
+<!ELEMENT album (#PCDATA)>
+<!ATTLIST album albumID ID #IMPLIED>
+<!ELEMENT singers (sangBy+)>
+<!ELEMENT sangBy (#PCDATA)>
+<!ELEMENT band (#PCDATA)>
+<!ATTLIST sangBy singerID CDATA #REQUIRED>
+<!ELEMENT musicDirectors (directedBy+)>
+<!ELEMENT directedBy (#PCDATA)>
+<!ATTLIST directedBy musicDirectorID CDATA #REQUIRED>
+<!ELEMENT producers (producedBy+)>
+<!ELEMENT producedBy (#PCDATA)>
+<!ATTLIST producedBy producerID CDATA #REQUIRED>
+<!ELEMENT writers (writtenBy+)>
+<!ELEMENT writtenBy (#PCDATA)>
+<!ATTLIST writtenBy writerID CDATA #REQUIRED>
+<!ELEMENT productionHouse (#PCDATA)>
+<!ELEMENT length (#PCDATA)>
+<!ELEMENT recorded (#PCDATA)>
+<!ELEMENT released (#PCDATA)>
